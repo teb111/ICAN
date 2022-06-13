@@ -23,9 +23,8 @@ const Header = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav
-                className="justify-content-end"
+                className="justify-content-end ml-auto"
                 activeKey={activeHeader}
-                lassName="ml-auto"
               >
                 <Nav.Item>
                   <Nav.Link href="/">Home</Nav.Link>
