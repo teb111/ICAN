@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import { Button, Form } from "react-bootstrap";
-import FormContainer from "../components/FormContainer";
 
 const ContactScreen = () => {
   const [name, setName] = useState("");
