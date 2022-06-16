@@ -3,8 +3,8 @@ import React from "react";
 const AboutScreen = () => {
   return (
     <>
-      <section className="executive-banner">
-        <p>About Ikeja & District Society of ICAN (IDSICAN)</p>
+      <section className="hero2">
+        <h3>About Ikeja & District Society of ICAN (IDSICAN)</h3>
       </section>
       <div className="about-content">
         <h4>HISTORY OF IKEJA DISTRICT SOCIETY OF ICAN</h4>
